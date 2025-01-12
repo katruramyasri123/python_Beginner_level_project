@@ -1,6 +1,6 @@
 import random
 print("WELCOME THE HANGMAN GAME")
-list=['apple']
+list=['apple','lakshmi','hema']
 word=random.choice(list)
 print(word)
 blanks=[];
